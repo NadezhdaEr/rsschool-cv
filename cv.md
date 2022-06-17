@@ -1,4 +1,4 @@
-# __Nadezhda Ermolaeva__ | rsschool-cv
+# __Nadezhda Ermolaeva__ 
 
 ============================================
 
