@@ -1,1 +1,1 @@
-https://GITHUB-NadezhdaEr.github.io/rsschool-cv/
+https://NadezhdaEr.github.io/rsschool-cv/
