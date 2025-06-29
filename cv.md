@@ -8,7 +8,7 @@
 
 ### _Contact-information_
 
-* Phone: +79876100142
+* Phone: +79992087639
 * E-mail: ermolaevanadya81@gmail.com
 * Telegram: @ena8119
 * Github: @NadezhdaEr
@@ -51,10 +51,11 @@ writing reports for presentations
 * HTML5, CSS
 * Java
 * Python
-* JavaScript Basics
+* JavaScript 
 * Git, GitHub
 * VS Code, IntelliJ IDEA
 * Figma
+* NodeJS, NPM, JSON, npm, yarn, webparck, gulp, grunt, parcel
 
 ===========================================================
 
@@ -103,9 +104,9 @@ public class Main {
 5. Federal STATE Autonomous educational institution of BFU im. Kant's "Machine learning and artificial intelligence from scratch to result" (2020), Skillfactory "Python for data analysis" (2019)
 6. FGBOU VO SPbGUPTiD, IDPO " Frontend development technology (taking into account the Wordskills standard for the competence "Web design and development")" (2020)
 7. Theory of accounting and practical application in the program "1C: Accounting 8"
-8. English Language Training B2 (in progress)
-9. German lessons A2 (in progress)
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+8. English Language Training B2 
+9. German lessons A2
+* RS Schools Course «JavaScript/Front-end.» 
 =============================================================
 
 #### ___Languages___
